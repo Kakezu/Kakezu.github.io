@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+}
+
+body {
+	color: white;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+p {
+	font-size: 12px;
+	color: green;
+}
+
+.int_ro {
+	height:100px;width:100px;border:dotted 2px;
+}
+
+ol {
+    list-style-type:upper-alpha;
+}
+
+ul {
+	list-style-type:square;
+}
