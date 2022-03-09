@@ -16,7 +16,8 @@ p {
 }
 
 .int_ro {
-	height:100px;width:100px;border:dotted 2px;
+	height:80px;width:80px;border:solid 2px;
+	padding-right: 50px;
 }
 
 ol {
@@ -25,4 +26,8 @@ ol {
 
 ul {
 	list-style-type:square;
+}
+#wiki_pedia {
+	color:red;
+	font-family:serif;
 }
