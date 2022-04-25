@@ -1,0 +1,45 @@
+body {
+    background-image: url("websitebg.jpg");
+    position:relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    padding:20px;
+    font-family: Fantasy, Arial, Helvetica;
+    font-size:3em;
+}
+#dreamhack {
+    border-radius:20px;
+}
+.uncle_sam {
+    border-radius:20px;
+    margin:20px;
+}
+footer {
+    padding:10px;
+    background-color: rgb(255, 255, 255);
+}
+.computerpic {
+    border-radius:20px;
+    margin:20px;
+}
+.flashpic {
+    border-radius:20px;
+    margin:20px;
+}
+.googlekartta {
+    border-radius:20px;
+    margin:20px;
+}
+figcaption {
+    margin-left:20px;
+}
+#slideimage {
+    border-radius:20px;
+    margin:20px;
+}
+#prevbtn, #nxtbtn {
+    margin-left:20px;
+    margin-bottom: 20px;
+}
